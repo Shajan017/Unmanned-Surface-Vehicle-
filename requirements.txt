@@ -1,0 +1,11 @@
+# Core Python packages
+numpy
+pandas
+opencv-python
+matplotlib
+scikit-learn
+
+# AI / computer vision
+ultralytics
+
+# Raspberry Pi / GPIO packages can be added when the final hardware interface is fixed.
