@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="600" viewBox="0 0 1200 600">
+<rect width="1200" height="600" fill="white"/>
+<text x="600" y="45" text-anchor="middle" font-family="Arial" font-size="30" font-weight="bold">Twin-Hull USV Concept</text>
+<g fill="#dfe7ef" stroke="#333" stroke-width="3">
+<rect x="100" y="190" width="270" height="170" rx="80"/>
+<rect x="830" y="190" width="270" height="170" rx="80"/>
+<rect x="360" y="235" width="480" height="30" rx="10" fill="#aaa"/>
+<rect x="360" y="315" width="480" height="30" rx="10" fill="#aaa"/>
+</g>
+<g fill="#fff4d6" stroke="#333" stroke-width="2">
+<rect x="480" y="170" width="240" height="100" rx="12"/><rect x="480" y="300" width="240" height="100" rx="12"/>
+</g>
+<g font-family="Arial" text-anchor="middle" fill="#222">
+<text x="235" y="285" font-size="24">Left Hull</text><text x="965" y="285" font-size="24">Right Hull</text>
+<text x="600" y="215" font-size="21">Electronics / Control</text><text x="600" y="350" font-size="21">Collection Area</text>
+<text x="600" y="475" font-size="22">Approx. overall: 9 ft × 6 ft</text><text x="600" y="510" font-size="18">Two hulls • central working area • rigid connecting frame</text>
+</g>
+</svg>
