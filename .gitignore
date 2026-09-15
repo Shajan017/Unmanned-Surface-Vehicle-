@@ -1,0 +1,18 @@
+__pycache__/
+*.py[cod]
+*.log
+.venv/
+venv/
+env/
+.vscode/
+.idea/
+.DS_Store
+
+# Local model/training outputs
+runs/
+weights/
+*.pt
+*.onnx
+
+# Dataset files that may be too large for normal Git storage
+dataset/
